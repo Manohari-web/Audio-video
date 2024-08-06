@@ -1,0 +1,17 @@
+
+.full {
+  display: grid;
+  grid-template-columns: 4fr 6fr;
+}
+.left {
+  background-color: lightpink;
+  padding: 20px;
+
+}
+.right {
+  background-color: lightgoldenrodyellow;
+  padding: 20px;
+
+}
+
+  
